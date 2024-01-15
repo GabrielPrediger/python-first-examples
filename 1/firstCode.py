@@ -1,8 +1,8 @@
 from utils.growUpFaster import hackForGrowUpFaster
 from config import brazilLegalAge
+from global_variables import age
 
 name = "Gabriel"
-age = 2
 
 if age >= brazilLegalAge:
     print("You're of legal age.")
