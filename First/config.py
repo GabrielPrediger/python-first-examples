@@ -1,0 +1,1 @@
+brazilLegalAge = 18
